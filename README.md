@@ -10,7 +10,6 @@ Este repositório contém um projeto de automação de testes utilizando o **Rob
 - **Bibliotecas Adicionais:**
   - SeleniumLibrary (para automação de navegadores)
   - RequestsLibrary (para testes de APIs)
-  - Outros: [mencionar caso haja outras bibliotecas específicas]
 
 ## 📋 Pré-requisitos
 
