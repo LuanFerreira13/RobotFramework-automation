@@ -1,6 +1,3 @@
-Aqui está um exemplo de README para o projeto de automação utilizando o Robot Framework:  
-
----
 
 # Robot Framework Automation
 
